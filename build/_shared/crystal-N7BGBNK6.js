@@ -1,1 +1,1 @@
-import{a}from"lcharleux.github.io/hello_jax/build/_shared/chunk-DORBKLGC.js";import"lcharleux.github.io/hello_jax/build/_shared/chunk-KPSTTWTG.js";import"lcharleux.github.io/hello_jax/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/hello_jax/build/_shared/chunk-DORBKLGC.js";import"/hello_jax/build/_shared/chunk-KPSTTWTG.js";import"/hello_jax/build/_shared/chunk-OZE3FFNP.js";export default a();
