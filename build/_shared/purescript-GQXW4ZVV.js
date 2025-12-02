@@ -1,1 +1,0 @@
-import{a}from"hello_jax//build/_shared/chunk-J7L62EVI.js";import"hello_jax//build/_shared/chunk-VCINEGR4.js";import"hello_jax//build/_shared/chunk-OZE3FFNP.js";export default a();
