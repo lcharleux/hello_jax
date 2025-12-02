@@ -21,6 +21,7 @@ options:
   #   logo: site_logo.png
 toc:
 - file: 00_intro_to_jax.ipynb
+- file: 01_ode_with_jax.ipynb
 
 authors:
 - name: Ludovic Charleux
