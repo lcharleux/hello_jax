@@ -1,0 +1,26 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8d100ed7-36b2-4354-97ab-43bab996214f
+  title: "JAX pour Cloé"
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/lcharleux/hello_jax
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+options:
+  # The base URL path where the site is served.
+  # For GitHub Pages project sites, this is "/<repo-name>".
+  baseUrl: /hello_jax
+  # Optional: used for canonical URLs and sitemaps
+  # url: https://lcharleux.github.io
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+toc:
+- file: 00_intro_to_jax.ipynb
+
+authors:
+- name: Ludovic Charleux
