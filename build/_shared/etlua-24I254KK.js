@@ -1,1 +1,1 @@
-import{a}from"hello_jax//build/_shared/chunk-YEB6T6UV.js";import"hello_jax//build/_shared/chunk-GHA6ELD7.js";import"hello_jax//build/_shared/chunk-J3PKFMLQ.js";import"hello_jax//build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"lcharleux.github.io/hello_jax//build/_shared/chunk-YEB6T6UV.js";import"lcharleux.github.io/hello_jax//build/_shared/chunk-GHA6ELD7.js";import"lcharleux.github.io/hello_jax//build/_shared/chunk-J3PKFMLQ.js";import"lcharleux.github.io/hello_jax//build/_shared/chunk-OZE3FFNP.js";export default a();
