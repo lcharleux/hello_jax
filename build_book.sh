@@ -1,3 +1,2 @@
 cd book 
-export BASE_URL="hello_jax/" 
-jupyter book build --html
+export BASE_URL="/hello_jax" ; jupyter book build --execute --html 
